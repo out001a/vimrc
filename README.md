@@ -5,7 +5,7 @@ vimrc using Vundle
 1. 安装Vundle `git clone http://github.com/gmarik/vundle.git ~/.vim/bundle/Vundle.vim`
 2. 将`.vimrc`文件拷贝到家目录（注意备份）
 3. 安装插件，在vim中执行 `:BundleInstall`
-4. 卸载插件，先删除删除`.vimrc`中对应的Bundle，再在vim中执行 `:BundleClean`
+4. 卸载插件，先删除`.vimrc`中对应的Bundle，再在vim中执行 `:BundleClean`
 
 ## 二、 Vundle的常用命令
 ```
